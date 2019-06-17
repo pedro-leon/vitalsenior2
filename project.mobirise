@@ -1,0 +1,1278 @@
+{
+  "settings": {
+    "name": "VitalSenior 2",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#ffffff",
+        "successColor": "#2969b0",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#2969b0",
+        "dangerColor": "#f28281",
+        "titleFont": "Lora",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#412c63"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.9.3",
+    "siteFonts": [],
+    "uniqCompNum": 34,
+    "versionPublish": "4.10.3",
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "https://www.vitalsenior.es",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "true",
+    "google-analytics": "",
+    "cookiesAlert": "Usamos cookies para darte una mejor experiencia. Lee nuestra <a href='politica-cookies.html'>política de cookies</a>.",
+    "gdpr": "Acepto la <a href='politica-privacidad.html'>Política de Privacidad y Condiciones Generales</a>.<br>\r\n<b>Responsable »</b> VitalSenior.es <b> \r\nFinalidad » </b>Recibir tus datos de contacto para poder enviarte información. <b>Legitimación » </b>Tu consentimiento (que estás de acuerdo en enviar los datos al aceptar la Política de Privacidad y Condiciones Generales). <b>Destinatarios »</b> Los datos que me facilitas estarán ubicados en los servidores de Interdominios (proveedores de hosting de Pedro León – pedroleon.info) dentro de la UE (España) y en los servidores de Google Inc. fuera de la UE en EEUU. Google está acogido al acuerdo EU-US Privacy Shield, aprobado por el Comité Europeo de Protección de Datos. <b>Derechos » </b>Por supuesto tienes derecho, entre otros, a acceder, rectificar, limitar y suprimir tus datos.",
+    "сanonical-url": "",
+    "sitemapSwitcher": "on"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "VitalSenior",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#2969b0",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/adobestock-237199248.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=tjt6Fj56-j0&loop=0&autoplay=0",
+                "title": "<br>VitalSenior",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus, tortor vel ultricies auctor, libero odio posuere lacus, nec tincidunt sapien lacus cursus ligula.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#header3-a\" data-toolbar=\"-mbrBtnMove\">NUESTROS SERVICIOS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#form1-c\" data-toolbar=\"-mbrBtnMove\">CONTÁCTANOS</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/adobestock-42918606.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br>SERVICIO 1",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget purus bibendum, vulputate magna a, iaculis lorem. Morbi non erat risus. Pellentesque velit nisl, mattis at dignissim vitae.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CARACTERÍSTICAS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACTO</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/adobestock-58052931.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br>SERVICIO 2",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget purus bibendum, vulputate magna a, iaculis lorem. Morbi non erat risus. Pellentesque velit nisl, mattis at dignissim vitae.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRECIOS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACTO</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-5",
+          "_styles": {
+            "H2": {
+              "font-size": "60px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "Servicios Disponibles",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-a"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#553982",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#efefef",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\">SERVICIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\">CONTACTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\">LEYES Y NOTICIAS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>957 xxx xxx</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "46px"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#3e295f"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#4e3477!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#553982"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            },
+            "A": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-vertical-2-400-267x128.jpg",
+              "height": 128,
+              "alt": "VitalSenior",
+              "link": "https://www.vitalsenior.es",
+              "title": "VitalSenior"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-4"
+        },
+        {
+          "_inherit": "features3",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#553982"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "smile-face",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#553982"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "pencil",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#553982"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "global",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#553982"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title1": "Servicio 1",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget purus bibendum, vulputate magna a, iaculis lorem. Morbi non erat risus. Pellentesque velit nisl, mattis at dignissim vitae, lacinia quis sapien. ",
+          "title2": "Servicio 2",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget purus bibendum, vulputate magna a, iaculis lorem. Morbi non erat risus. Pellentesque velit nisl, mattis at dignissim vitae, lacinia quis sapien. ",
+          "title3": "Servicio 3",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget purus bibendum, vulputate magna a, iaculis lorem. Morbi non erat risus. Pellentesque velit nisl, mattis at dignissim vitae, lacinia quis sapien. ",
+          "title4": "Servicio 4",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget purus bibendum, vulputate magna a, iaculis lorem. Morbi non erat risus. Pellentesque velit nisl, mattis at dignissim vitae, lacinia quis sapien. ",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MÁS</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features6",
+          "_anchor": "features6-9"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.7"
+          },
+          "title": "RESPONDEMOS A TUS DUDAS EN EL 957 00 00 00",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-y"
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            },
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "",
+            "secondType": "hidden",
+            "thirdType": "",
+            "fourthType": "",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#553982",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "description1": "IVA no incluído",
+          "description2": "More details",
+          "description3": "IVA no incluído",
+          "description4": "IVA no incluído",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-c\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">¡ME INTERESA!</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-c\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">CONTACTAR</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-c\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "title": "Tarifas",
+          "subtitle": "Pricing table with four columns and solid color background.",
+          "title1": "SERVICIO 1",
+          "title2": "BUSINESS",
+          "title3": "SERVICIO 2",
+          "title4": "SERVICIO 3",
+          "subtitle1": "Descripción",
+          "subtitle2": "Description",
+          "subtitle3": "Descripción",
+          "subtitle4": "Descripción",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "€",
+          "currency2": "$",
+          "currency3": "€",
+          "currency4": "€",
+          "price1": "0",
+          "price2": "0",
+          "price3": "0",
+          "price4": "0",
+          "period1": "/mes",
+          "period2": "/mo.",
+          "period3": "/hora",
+          "period4": "",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">característica 1</li><li class=\"list-group-item\">característica 2</li><li class=\"list-group-item\">característica 3</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">característica 1\n</li><li class=\"list-group-item\">característica 2\n</li><li class=\"list-group-item\">característica 3</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">característica 1\r</li><li class=\"list-group-item\">característica 2\r</li><li class=\"list-group-item\">característica 3</li></ul>",
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-b"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#000000",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Formulario de Contacto",
+          "subtitle": "<b>Envíanos tus consultas o dudas y te responderemos en breve</b><br><b>También puedes llamarnos al 957 00 00 00<br>o por correo electrónico a xxx@vitalsenior.es</b>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR FORMULARIO</a>",
+          "form": {
+            "action": "fatima@enfermeraencordoba.com",
+            "alerts": {
+              "success": "¡Gracias por completar el formulario!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Correo Electrónico*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Teléfono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-c",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#553982",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-vertical-1-400-195x128.jpg",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "VitalSenior",
+              "title": "VitalSenior"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Contacto</strong><br>\n957 xxx xxx<br>\ninfo@vitalsenior.es",
+          "text2": "<strong>Menú</strong><br><a href=\"#top\">Inicio</a><br>Quienes Somos<br>\nServicios<br>Contacto<br>Leyes y Noticias",
+          "text3": "<b>Términos Legales</b><br><br><a href=\"politica-privacidad.html\">Política de Privacidad</a>\n<br><a href=\"aviso-legal.html\">Aviso Legal</a>\n<br><a href=\"politica-cookies.html\">Política de Cookies</a><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-d",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-size": "15px",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#412c63",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 - VitalSenior.es<br>&nbsp;<a href=\"https://www.pedroleon.info\" target=\"_blank\">Diseño Web: PedroLeon.info</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-f",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "politica-privacidad.html": {
+      "settings": {
+        "meta_descr": "Página de la Política de Privacidad",
+        "title": "Política de Privacidad",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#553982",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#efefef",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\">SERVICIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\">CONTACTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\">LEYES Y NOTICIAS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>957 xxx xxx</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "46px"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#3e295f"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#4e3477!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#553982"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            },
+            "A": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-vertical-2-400-267x128.jpg",
+              "height": 128,
+              "alt": "VitalSenior",
+              "link": "https://www.vitalsenior.es",
+              "title": "VitalSenior",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-o"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "6",
+            "paddingBottom": "2",
+            "bgColor": "#553982"
+          },
+          "title": "Política de Privacidad y Condiciones Generales",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-s"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Recomendación previa.\n</b></p><p><br></p><p>Te doy la bienvenida a esta web y te recomiendo que leas mi Política de Privacidad. Aquí te describo la manera en la que vitalsenior.es recaba y utiliza información sobre sus clientes y usuarios.\n</p><p>\n</p><p><br></p><p>En esta web se respetan y cuidan los datos personales de los usuarios. Como usuario debes saber que tus derechos están garantizados. Me he esforzado en crear un espacio seguro y confiable.</p><p><br></p><p>\n</p><p>\n</p><p><b>Tu privacidad es importante para mí.\n</b></p><p>\n</p><p><br></p><p>En esta declaración de privacidad te explico qué datos personales recopilo de mis usuarios y cómo los utilizo. Te animo a leer detenidamente estos términos antes de facilitar tus datos personales en esta web. Los mayores de trece años podrán utilizar vitalsenior.es como usuarios sin el previo consentimiento de sus padres o tutores.\n</p><p>\n</p><p><br></p><p>En el caso de los menores de trece años se requiere el consentimiento de los padres o tutores para el tratamiento de sus datos personales.\n</p><p>\n</p><p><br></p><p>En ningún caso se recabarán del menor de edad datos relativos a la situación profesional, económica o a la intimidad de los otros miembros de la familia, sin el consentimiento de éstos.\n</p><p>\n</p><p><br></p><p>Si eres menor de trece años y has accedido a este sitio web sin avisar a tus padres no debes registrarte como usuario.\n</p><p>\n</p><p><br></p><p>En esta web se respetan y cuidan los datos personales de los usuarios. Como usuario debes saber que tus derechos están garantizados.\n</p><p>\n</p><p><br></p><p>Me he esforzado en crear un espacio seguro y confiable y por eso quiero compartir mis principios respecto a tu privacidad:\n</p><p>\n</p><p>· Nunca solicito información personal a menos que realmente sea necesaria para prestarte los servicios que me requieras.\n</p><p>· Nunca comparto información personal de mis usuarios con nadie, excepto para cumplir con la ley o en caso que cuente con tu autorización expresa.\n</p><p>· Nunca utilizo tus datos personales con una finalidad diferente a la expresada en esta política de privacidad.\n</p><p>\n</p><p><br></p><p>Es preciso advertir que esta Política de Privacidad podría variar en función de exigencias legislativas o de autorregulación, por lo que se aconseja a los usuarios que la visiten periódicamente. Será aplicable en caso de que los usuarios decidan rellenar algún formulario de cualquiera de sus formularios de contacto donde se recaben datos de carácter personal.\n</p><p>\n</p><p><br></p><p>vitalsenior.es ha adecuado esta web a las exigencias de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal (LOPD), y al Real Decreto 1720/2007, de 21 de diciembre, conocido como el Reglamento de desarrollo de la LOPD. Cumple también con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la protección de las personas físicas (RGPD), así como con la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio Electrónico (LSSICE o LSSI).</p><p><br></p><p>\n</p><p>\n</p><p><b>Responsable del tratamiento de tus datos personales.</b></p><p><br></p><p>\n</p><p>Identidad del Responsable: xxx</p><p>Nombre comercial: vitalsenior.es</p><p>NIF/CIF: xxxx</p><p>Dirección: xxxx</p><p>Correo electrónico: xxx</p><p>Actividad: Servicios de xxx</p><p>\n</p><p><br></p><p>A efectos de lo previsto en el Reglamento General de Protección de Datos antes citado, los datos personales que me envíes a través de los formularios de la web, recibirán el tratamiento de datos de “Usuarios de la web”.\n</p><p>\n</p><p><br></p><p>Para el tratamiento de datos de mis usuarios, implemento todas las medidas técnicas y organizativas de seguridad establecidas en la legislación vigente.</p><p><br></p><p>\n</p><p>\n</p><p><b>Principios que aplicaré a tu información personal.\n</b></p><p><br></p><p>En el tratamiento de tus datos personales, aplicaré los siguientes principios que se ajustan a las exigencias del nuevo reglamento europeo de protección de datos:\n</p><p>\n</p><p>· Principio de licitud, lealtad y transparencia: Siempre voy a requerir tu consentimiento para el tratamiento de tus datos personales para uno o varios fines específicos que te informaré previamente con absoluta transparencia.\n</p><p>· Principio de minimización de datos: Solo voy a solicitar datos estrictamente necesarios en relación con los fines para los que los requiero. Los mínimos posibles.\n</p><p>· Principio de limitación del plazo de conservación: los datos serán mantenidos durante no más tiempo del necesario para los fines del tratamiento, en función a la finalidad, te informaré del plazo de conservación correspondiente, en el caso de suscripciones, periódicamente revisaré mis listas y eliminaré aquellos registros inactivos durante un tiempo considerable.\n</p><p>· Principio de integridad y confidencialidad: Tus datos serán tratados de tal manera que se garantice una seguridad adecuada de los datos personales y se garantice confidencialidad. Debes saber que tomo todas las precauciones necesarias para evitar el acceso no autorizado o uso indebido de los datos de mis usuarios por parte de terceros.\n</p><p>\n</p><p><br></p><p><b>¿Cómo he obtenido tus datos?\n</b></p><p><br></p><p>Los datos personales que trato en vitalsenior.es proceden de:\n</p><p>\n</p><p><br>· Formulario de contacto para solicitar más información.</p><p>\n</p><p><br></p><p><b>¿Cuáles son tus derechos cuando me facilitas tus datos?\n</b></p><p><br></p><p>Cualquier persona tiene derecho a obtener confirmación sobre si en vitalsenior.es estoy tratando datos personales que me concierne, o no.\n</p><p>\n</p><p><br></p><p>Las personas interesadas tienen derecho a:\n</p><p>\n</p><p>· Solicitar el acceso a los datos personales relativos al interesado.\n</p><p>· Solicitar su rectificación o supresión.\n</p><p>· Solicitar la limitación de su tratamiento.\n</p><p>· Oponerse al tratamiento.\n</p><p>· Solicitar la portabilidad de los datos.\n</p><p>\n</p><p><br></p><p>Los interesados podrán acceder a sus datos personales, así como a solicitar la rectificación de los datos inexactos o, en su caso, solicitar su supresión cuando, entre otros motivos, los datos ya no sean necesarios para los fines que fueron recogidos. En determinadas circunstancias, los interesados podrán solicitar la limitación del tratamiento de sus datos, en cuyo caso únicamente los conservaré para el ejercicio o la defensa de reclamaciones.\n</p><p>\n</p><p><br></p><p>En determinadas circunstancias y por motivos relacionados con su situación particular, los interesados podrán oponerse al tratamiento de sus datos. vitalsenior.es dejará de tratar los datos, salvo por motivos legítimos imperiosos, o el ejercicio o la defensa de posibles reclamaciones. Cómo interesado, tienes derecho a recibir los datos personales que te incumban, que me hayas facilitado y en un formato estructurado, de uso común y lectura mecánica, y a transmitirlos a otro responsable del tratamiento cuando:\n</p><p>\n</p><p>· El tratamiento esté basado en el consentimiento.\n</p><p>· Los datos hayan sido facilitados por la persona interesada.\n</p><p>· El tratamiento se efectúe por medios automatizados.\n</p><p>\n</p><p><br></p><p>Al ejercer tu derecho a la portabilidad de los datos, tendrás derecho a que los datos personales se transmitan directamente de responsable a responsable cuando sea técnicamente posible.\n</p><p>\n</p><p><br></p><p>Los interesados también tendrán derecho a la tutela judicial efectiva y a presentar una reclamación ante la autoridad de control, en este caso, la Agencia Española de Protección de Datos, si consideran que el tratamiento de datos personales que le conciernen infringe el Reglamento.\n</p><p>\n</p><p><br></p><p><b>¿Con qué finalidad trato tus datos personales?\n</b></p><p><br></p><p>Cuando un usuario se conecta con esta web por ejemplo para contactar, está facilitando información de carácter personal de la que es responsable vitalsenior.es. Esa información puede incluir datos de carácter personal como pueden ser tu dirección IP, nombre, dirección de correo electrónico y otros datos suministrados en el mensaje. Al facilitar esta información, el usuario da su consentimiento para que su información sea recopilada, utilizada, gestionada y almacenada por vitalsenior.es, sólo como se describe en el Aviso Legal y Condiciones de Uso y en la presente Política de Privacidad.\n</p><p>\n</p><p><br></p><p>En vitalsenior.es existen diferentes sistemas de captura de información personal y trato la información que me facilitan las personas interesadas con el siguiente fin por cada sistema de captura (formularios):\n</p><p>\n</p><p><br></p><p>Formularios de contacto: Solicito los siguientes datos personales: Nombre, Email, para responder a los requerimientos de los usuarios de vitalsenior.es, teléfono de contacto y el mensaje con la información que desee enviar el usuario. Por ejemplo, puedo utilizar esos datos para responder a tu solicitud y dar respuesta a las dudas, quejas, comentarios o inquietudes que puedas tener relativas a la información incluida en la web, los servicios que se prestan a través de la web, el tratamiento de sus datos personales, cuestiones referentes a los textos legales incluidos en la web, así como cualesquiera otras consultas que puedas tener y que no estén sujetas a las condiciones de contratación. Te informo que los datos que me facilitas estarán ubicados en los servidores de Interdominios (proveedor de Pedro León - pedroleon.info) dentro de la UE (España y Alemania) y en los servidores de Google Inc. fuera de la UE en EEUU. Google está acogido al acuerdo EU-US Privacy Shield, aprobado por el Comité Europeo de Protección de Datos.\n</p><p>\n</p><p><br></p><p>Existen otras finalidades por la que trato tus datos personales:\n</p><p>\n</p><p>· Para garantizar el cumplimiento de las condiciones de uso y la ley aplicable. Esto puede incluir el desarrollo de herramientas y algoritmos que ayudan a esta web a garantizar la confidencialidad de los datos personales que recoge.\n</p><p>· Para apoyar y mejorar los servicios que ofrece esta web.\n</p><p>· También se recogen otros datos no identificativos que se obtienen mediante algunas cookies que se descargan en el ordenador del usuario cuando navega en esta web que detallo en la Política de Cookies.\n</p><p>· vitalsenior.es puede tener presencia en redes sociales. El tratamiento de los datos que se lleve a cabo de las personas que se hagan seguidoras en las redes sociales de las páginas oficiales de vitalsenior.es, se regirá por este apartado. Así como por aquellas condiciones de uso, políticas de privacidad y normativas de acceso que pertenezcan a la red social que proceda en cada caso y aceptadas previamente por el usuario de vitalsenior.es. Tratará sus datos con las finalidades de administrar correctamente su presencia en la red social, informando de actividades, productos o servicios de vitalsenior.es, así como para cualquier otra finalidad que las normativas de las redes sociales permitan. En ningún caso utilizaré los perfiles de seguidores en redes sociales para enviar publicidad de manera individual.\n</p><p>\n</p><p><br></p><p>De acuerdo a lo establecido en el reglamento general de protección de datos europeo (RGPD) 2016/679, vitalsenior.es será responsable del tratamiento de los datos correspondientes a Usuarios de la web y suscriptores.\n</p><p>\n</p><p><br></p><p>vitalsenior.es no vende, alquila ni cede datos de carácter personal que puedan identificar al usuario, ni lo hará en el futuro, a terceros sin el consentimiento previo. Sin embargo, en algunos casos se pueden realizar colaboraciones con otros profesionales, en esos casos, se requerirá consentimiento a los usuarios informando sobre la identidad del colaborador y la finalidad de la colaboración. Siempre se realizará con los más estrictos estándares de seguridad.\n</p><p>\n</p><p><br></p><p><b>Legitimación para el tratamiento de tus datos.\n</b></p><p><br></p><p>La base legal para el tratamiento de sus datos es: el consentimiento.\n</p><p>\n</p><p><br></p><p>Para contactar o realizar comentarios en esta web se requiere el consentimiento con esta política de privacidad.\n</p><p>\n</p><p><br></p><p>La oferta prospectiva o comercial de productos y servicios está basada en el consentimiento que se le solicita, sin que en ningún caso la retirada de este consentimiento condicione la ejecución del contrato de suscripción.\n</p><p>\n</p><p><br></p><p><b>Categoría de datos recogidos.\n</b></p><p><br></p><p>Las categorías de datos que se tratan son datos identificativos.\n</p><p>\n</p><p><br></p><p>En ningún caso se tratan categorías de datos especialmente protegidos.\n</p><p>\n</p><p><br></p><p><b>¿Por cuánto tiempo conservaré tus datos?\n</b></p><p><br></p><p>Los datos personales proporcionados se conservarán hasta que no se solicite su supresión por el interesado.\n</p><p>\n</p><p><br></p><p><b>¿A qué destinatarios se comunicarán tus datos?\n</b></p><p><br></p><p>Muchas herramientas que utilizo para gestionar tus datos son contratados por terceros.\n</p><p>\n</p><p><br></p><p>Para prestar servicios estrictamente necesarios para el desarrollo de la actividad, vitalsenior.es, comparte datos con los siguientes prestadores bajo sus correspondientes condiciones de privacidad:\n</p><p>\n</p><p><br></p><p>Google Analytics: un servicio analítico de web prestado por Google, Inc., una compañía de Delaware cuya oficina principal está en 1600 Amphitheatre Parkway, Mountain View (California), CA 94043, Estados Unidos (“Google”). Google Analytics utiliza “cookies”, que son archivos de texto ubicados en tu ordenador, para ayudar a vitalsenior.es a analizar el uso que hacen los usuarios del sitio web. La información que genera la cookie acerca de su uso de vitalsenior.es (incluyendo tu dirección IP) será directamente transmitida y archivada por Google en los servidores de Estados Unidos.\n</p><p>\n</p><p><br></p><p><span style=\"font-size: 1.07rem;\">Hosting: Interdominios (Sociedad Anónima), con domicilio en España (Interdominios, Calle Ana Mariscal, 5, 28223. Pozuelo de Alarcón. Madrid). Más información en: https://www.interdominios.com/contacto.aspx. Interdominios trata los datos con la finalidad de realizar sus servicios de hosting a Pedro León - pedroleon.info</span><br></p><p>\n</p><p><br></p><p><b>Navegación.\n</b></p><p><br></p><p>Al navegar por vitalsenior.es se pueden recoger datos no identificables, que pueden incluir, direcciones IP, ubicación geográfica (aproximada), un registro de cómo se utilizan los servicios y sitios, y otros datos que no pueden ser utilizados para identificar al usuario. Entre los datos no identificativos están también los relacionados a tus hábitos de navegación a través de servicios de terceros. Esta web utiliza los siguientes servicios de análisis de terceros:\n</p><p>\n</p><p><br></p><p>Google Analytics.&nbsp;<span style=\"font-size: 1.07rem;\">Utilizo esta información para analizar tendencias, administrar el sitio, rastrear los movimientos de los usuarios alrededor del sitio y para recopilar información demográfica sobre mi base de usuarios en su conjunto.</span></p><p>\n</p><p><br></p><p><b>Secreto y seguridad de los datos.\n</b></p><p><br></p><p>vitalsenior.es se compromete en el uso y tratamiento de los datos incluidos personales de los usuarios, respetando su confidencialidad y a utilizarlos de acuerdo con la finalidad del mismo, así como a dar cumplimiento a su obligación de guardarlos y adaptar todas las medidas para evitar la alteración, pérdida, tratamiento o acceso no autorizado, de conformidad con lo establecido en la normativa vigente de protección de datos.\n</p><p>\n</p><p><br></p><p>Esta web incluye un certificado SSL. Se trata de un protocolo de seguridad que hace que tus datos viajen de manera íntegra y segura, es decir, la transmisión de los datos entre un servidor y usuario web, y en retroalimentación, es totalmente cifrada o encriptada.\n</p><p>\n</p><p>vitalsenior.es no puede garantizar la absoluta inexpugnabilidad de la red Internet y por tanto la violación de los datos mediante accesos fraudulentos a ellos por parte de terceros.\n</p><p>\n</p><p><br></p><p>Con respecto a la confidencialidad del procesamiento, vitalsenior.es se asegurará de que cualquier persona que esté autorizada por vitalsenior.es para procesar los datos del cliente (incluido su personal, colaboradores y prestadores), estará bajo la obligación apropiada de confidencialidad (ya sea un deber contractual o legal).\n</p><p>\n</p><p><br></p><p>Cuando se presente algún incidente de seguridad, al darse cuenta vitalsenior.es, deberá notificar al Cliente sin demoras indebidas y deberá proporcionar información oportuna relacionada con el Incidente de Seguridad tal como se conozca o cuando el Cliente lo solicite razonablemente.\n</p><p>\n</p><p><br></p><p><b>Exactitud y veracidad de los datos.\n</b></p><p><br></p><p>Como usuario, eres el único responsable de la veracidad y corrección de los datos que remitas a vitalsenior.es exonerando a vitalsenior.es, de cualquier responsabilidad al respecto.\n</p><p>\n</p><p><br></p><p>Los usuarios garantizan y responden, en cualquier caso, de la exactitud, vigencia y autenticidad de los datos personales facilitados, y se comprometen a mantenerlos debidamente actualizados. El usuario acepta proporcionar información completa y correcta en el formulario de contacto o suscripción.\n</p><p>\n</p><p><br></p><p><b>Aceptación y consentimiento.\n</b></p><p><br></p><p>El usuario declara haber sido informado de las condiciones sobre protección de datos de carácter personal, aceptando y consintiendo el tratamiento de los mismos por parte de vitalsenior.es en la forma y para las finalidades indicadas en esta política de privacidad.\n</p><p>\n</p><p><br></p><p><b>Revocabilidad.\n</b></p><p><br></p><p>El consentimiento prestado, tanto para el tratamiento como para la cesión de los datos de los interesados, es revocable en cualquier momento comunicándolo a vitalsenior.es en los términos establecidos en esta Política para el ejercicio de los derechos ARCO. Esta revocación en ningún caso tendrá carácter retroactivo.\n</p><p>\n</p><p><br></p><p><b>Cambios en la política de privacidad.\n</b></p><p><br></p><p>vitalsenior.es se reserva el derecho a modificar la presente política para adaptarla a novedades legislativas o jurisprudenciales, así como a prácticas de la industria. En dichos supuestos, vitalsenior.es anunciará en esta página los cambios introducidos con razonable antelación a su puesta en práctica.\n</p><p>\n</p><p><br></p><p><b>Correos comerciales.\n</b></p><p><br></p><p>De acuerdo con la LSSICE, vitalsenior.es no realiza prácticas de SPAM, por lo que no envía correos comerciales por vía electrónica que no hayan sido previamente solicitados o autorizados por el usuario. En consecuencia, en cada uno de los formularios habidos en la web, el usuario tiene la posibilidad de dar su consentimiento expreso para recibir el boletín, con independencia de la información comercial puntualmente solicitada.\n</p><p>\n</p><p><br></p><p>Conforme a lo dispuesto en la Ley 34/2002 de Servicios de la Sociedad de la Información y de comercio electrónico, vitalsenior.es se compromete a no enviar comunicaciones de carácter comercial sin identificarlas debidamente.\n</p><p>\n</p><p><br></p><p>Documento revisado el 17-06-2019.</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-t"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#553982",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-vertical-1-400-195x128.jpg",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "VitalSenior",
+              "title": "VitalSenior"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Contacto</strong><br>\n957 xxx xxx<br>\ninfo@vitalsenior.es",
+          "text2": "<strong>Menú</strong><br><a href=\"#top\">Inicio</a><br>Quienes Somos<br>\nServicios<br>Contacto<br>Leyes y Noticias",
+          "text3": "<b>Términos Legales</b><br><br><a href=\"politica-privacidad.html\">Política de Privacidad</a>\n<br><a href=\"aviso-legal.html\">Aviso Legal</a>\n<br><a href=\"politica-cookies.html\">Política de Cookies</a><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-size": "15px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "contacts1-p"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#412c63",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 - VitalSenior.es<br>&nbsp;<a href=\"https://www.pedroleon.info\" target=\"_blank\">Diseño Web: PedroLeon.info</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-q"
+        }
+      ]
+    },
+    "aviso-legal.html": {
+      "settings": {
+        "meta_descr": "Página del Aviso Legal",
+        "title": "Aviso Legal",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#553982",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#efefef",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\">SERVICIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\">CONTACTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\">LEYES Y NOTICIAS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>957 xxx xxx</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "46px"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#3e295f"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#4e3477!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#553982"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            },
+            "A": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-vertical-2-400-267x128.jpg",
+              "height": 128,
+              "alt": "VitalSenior",
+              "link": "https://www.vitalsenior.es",
+              "title": "VitalSenior",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-l"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "6",
+            "paddingBottom": "2",
+            "bgColor": "#553982"
+          },
+          "title": "Aviso Legal y Condiciones de Uso",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-u"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Si has llegado a este apartado de mi página web es porque sin duda te interesa saber más sobre la relación que podemos tener en este espacio. Es decir, conocer los datos de mi actividad, la finalidad de la web, qué información de la web utilizo y que hago con tus datos, cuales son los derechos y obligaciones que tenemos ambos y explicarte cuales son mis procedimientos para proteger tus datos personales y mi compromiso de confidencialidad.</p><p><br></p><p>\n</p><p>\n</p><p><b>Datos del Responsable.\n</b></p><p><br></p><p>Identidad del Responsable: xxxx</p><p>Nombre comercial: vitalsenior.es</p><p>NIF/CIF: xxx</p><p>Dirección: xxx</p><p>Correo electrónico: xxx<br><br></p><p>\n</p><p>En este espacio, el usuario, podrá encontrar toda la información relativa a los términos y condiciones legales que definen las relaciones entre los usuarios y yo como responsable de esta web. Como usuario, es importante que conozcas estos términos antes de continuar tu navegación.\n</p><p>\n</p><p><br>vitalsenior.es como responsable de esta web, asumo el compromiso de procesar la información de mis usuarios y clientes con plenas garantías y cumplir con los requisitos nacionales y europeos que regulan la recopilación y uso de los datos personales de mis usuarios.\n<br><br></p><p>\n</p><p>Esta web, por tanto, cumple rigurosamente con La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal (LOPD), y con el Real Decreto 1720/2007, de 21 de diciembre, conocido como el Reglamento de desarrollo de la LOPD. Cumple también con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la protección de las personas físicas (RGPD), así como con la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio Electrónico (LSSICE ó LSSI).\n</p><p>\n</p><p><br><b>Condiciones generales de uso.\n</b></p><p><br>Las presentes Condiciones Generales regulan el uso (incluyendo el mero acceso) de las páginas de web, integrantes del sitio web de vitalsenior.es incluidos los contenidos y servicios puestos a disposición en ellas. Toda persona que acceda a la web, vitalsenior.es (“usuario”) acepta someterse a las Condiciones Generales vigentes en cada momento del portal vitalsenior.es.\n<br><br></p><p>\n</p><p><b>Datos personales que recabo y cómo lo hago.\n</b></p><p><br>Tienes toda la información en la Política de Privacidad y Condiciones Generales.\n</p><p>\n</p><p><br><b>Compromisos y obligaciones de los usuarios.\n</b></p><p><br>El usuario queda informado, y acepta, que el acceso a la presente web no supone, en modo alguno, el inicio de una relación comercial con vitalsenior.es. De esta forma, el usuario se compromete a utilizar el sitio web, sus servicios y contenidos sin contravenir la legislación vigente, la buena fe y el orden público.\n<br><br></p><p>\n</p><p>Queda prohibido el uso de la web, con fines ilícitos o lesivos, o que, de cualquier forma, puedan causar perjuicio o impedir el normal funcionamiento del sitio web. Respecto de los contenidos de esta web, se prohíbe:\n</p><p>\n</p><p><br>Su reproducción, distribución o modificación, total o parcial, a menos que se cuente con mi autorización como legítimo titular;\n</p><p>Cualquier vulneración de los derechos del prestador o de mi como legítimo titular;\n</p><p><br></p><p>Su utilización para fines comerciales o publicitarios.\n</p><p><br>En la utilización de la web, vitalsenior.es el usuario se compromete a no llevar a cabo ninguna conducta que pudiera dañar la imagen, los intereses y los derechos de vitalsenior.es o de terceros o que pudiera dañar, inutilizar o sobrecargar el portal vitalsenior.es o que impidiera, de cualquier forma, la normal utilización de la web.\n<br><br></p><p>\n</p><p>No obstante, el usuario debe ser consciente de que las medidas de seguridad de los sistemas informáticos en Internet no son enteramente fiables y que, por tanto vitalsenior.es no puede garantizar la inexistencia de malware u otros elementos que puedan producir alteraciones en los sistemas informáticos (software y hardware) del usuario o en sus documentos electrónicos y ficheros contenidos en los mismos aunque pongo todos los medios necesarios y las medidas de seguridad oportunas para evitar la presencia de estos elementos dañinos.\n<br><br></p><p>\n</p><p><b>Anuncios patrocinados y publicidad.\n</b></p><p><br>Esta web no ofrece a los usuarios contenidos patrocinados y anuncios externos.\n</p><p>\n</p><p><br><b>Medidas de seguridad.\n</b></p><p><br>Los datos personales comunicados por el usuario a vitalsenior.es pueden ser almacenados en bases de datos automatizadas o no, cuya titularidad corresponde en exclusiva a vitalsenior.es, asumiendo ésta todas las medidas de índole técnica, organizativa y de seguridad que garantizan la confidencialidad, integridad y calidad de la información contenida en las mismas de acuerdo con lo establecido en la normativa vigente en protección de datos. La comunicación entre los usuarios y vitalsenior.es utiliza un canal seguro, y los datos transmitidos son cifrados gracias a protocolos a https, por tanto, garantizo las mejores condiciones de seguridad para que la confidencialidad de los usuarios esté garantizada.\n<br><br></p><p>\n</p><p><b>Plataforma de resolución de conflictos.\n</b></p><p><br>Pongo también a disposición de los usuarios la plataforma de resolución de litigios que facilita la Comisión Europea y que se encuentra disponible en el siguiente enlace: http://ec.europa.eu/consumers/odr/\n<br><br></p><p>\n</p><p><b>Derechos de propiedad intelectual e industrial.\n</b></p><p><br>En virtud de lo dispuesto en los artículos 8 y 32.1, párrafo segundo, de la Ley de Propiedad Intelectual, quedan expresamente prohibidas la reproducción, la distribución y la comunicación pública, incluida su modalidad de puesta a disposición, de la totalidad o parte de los contenidos de esta página web, con fines comerciales, en cualquier soporte y por cualquier medio técnico, sin la autorización de vitalsenior.es. El usuario se compromete a respetar los derechos de Propiedad Intelectual e Industrial titularidad de vitalsenior.es.\n<br><br></p><p>\n</p><p>El usuario conoce y acepta que la totalidad del sitio web, conteniendo sin carácter exhaustivo el texto, software, contenidos (incluyendo estructura, selección, ordenación y presentación de los mismos) podcast, fotografías, material audiovisual y gráficos, está protegida por marcas, derechos de autor y otros derechos legítimos, de acuerdo con los tratados internacionales en los que España es parte y otros derechos de propiedad y leyes de España.\n<br><br></p><p>\n</p><p>En el caso de que un usuario o un tercero consideren que se ha producido una violación de sus legítimos derechos de propiedad intelectual por la introducción de un determinado contenido en la web, deberá notificar dicha circunstancia a vitalsenior.es indicando:</p><p><br></p><p>\n</p><p>\n</p><p>Datos personales del interesado titular de los derechos presuntamente infringidos, o indicar la representación con la que actúa en caso de que la reclamación la presente un tercero distinto del interesado.\n<br><br></p><p>\n</p><p>Señalar los contenidos protegidos por los derechos de propiedad intelectual y su ubicación en la web, la acreditación de los derechos de propiedad intelectual señalados y declaración expresa en la que el interesado se responsabiliza de la veracidad de las informaciones facilitadas en la notificación.\n<br><br></p><p>\n</p><p><b>Enlaces externos.\n</b></p><p><br>Las páginas de la web vitalsenior.es proporcionan enlaces a otros sitios web propios y contenidos que son propiedad de terceros tales como:\n<br><br></p><p>\n</p><p>Herramientas\n</p><p>Recursos\n</p><p>Contenido de otros blogs\n</p><p>Hosting\n</p><p>\n</p><p><br><b>Exclusión de garantías y responsable.\n</b></p><p><br>vitalsenior.es no otorga ninguna garantía ni se hace responsable, en ningún caso, de los daños y perjuicios de cualquier naturaleza que pudieran traer causa de:\n<br><br></p><p>\n</p><p>· La falta de disponibilidad, mantenimiento y efectivo funcionamiento de la web, o de sus servicios y contenidos;\n</p><p>· La existencia de malware, programas maliciosos o lesivos en los contenidos;\n</p><p>· El uso ilícito, negligente, fraudulento o contrario a este Aviso Legal;\n</p><p>· La falta de licitud, calidad, fiabilidad, utilidad y disponibilidad de los servicios prestados por terceros y puestos a disposición de los usuarios en el sitio web.\n</p><p>· El prestador no se hace responsable bajo ningún concepto de los daños que pudieran dimanar del uso ilegal o indebido de la presente página web.\n</p><p>\n</p><p><br><b>Ley aplicable y jurisdicción.\n</b></p><p><br>Con carácter general las relaciones entre vitalsenior.es con los usuarios de sus servicios telemáticos, presentes en esta web se encuentran sometidas a la legislación y jurisdicción españolas y a los tribunales de Córdoba.\n</p><p>\n</p><p><br><b>Contacto.\n</b></p><p><br>En caso de que cualquier usuario tuviese alguna duda acerca de estas Condiciones legales o cualquier comentario sobre el portal vitalsenior.es, por favor diríjase a XXXXXXX@vitalsenior.es<br><br></p><p>\n</p><p>El aviso legal ha sido actualizado por última vez el 17-06-2019.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-v"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#553982",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-vertical-1-400-195x128.jpg",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "VitalSenior",
+              "title": "VitalSenior"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Contacto</strong><br>\n957 xxx xxx<br>\ninfo@vitalsenior.es",
+          "text2": "<strong>Menú</strong><br><a href=\"#top\">Inicio</a><br>Quienes Somos<br>\nServicios<br>Contacto<br>Leyes y Noticias",
+          "text3": "<b>Términos Legales</b><br><br><a href=\"politica-privacidad.html\">Política de Privacidad</a>\n<br><a href=\"aviso-legal.html\">Aviso Legal</a>\n<br><a href=\"politica-cookies.html\">Política de Cookies</a><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-size": "15px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "contacts1-m"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#412c63",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 - VitalSenior.es<br>&nbsp;<a href=\"https://www.pedroleon.info\" target=\"_blank\">Diseño Web: PedroLeon.info</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-n"
+        }
+      ]
+    },
+    "politica-cookies.html": {
+      "settings": {
+        "meta_descr": "Página de la Política de Cookies",
+        "title": "Política de Cookies",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#553982",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#efefef",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\">QUIENES SOMOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\">SERVICIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\">CONTACTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\">LEYES Y NOTICIAS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>957 xxx xxx</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "46px"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#3e295f"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#4e3477!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#553982"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            },
+            "A": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-vertical-2-400-267x128.jpg",
+              "height": 128,
+              "alt": "VitalSenior",
+              "link": "https://www.vitalsenior.es",
+              "title": "VitalSenior",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-i"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "6",
+            "paddingBottom": "2",
+            "bgColor": "#2969b0"
+          },
+          "title": "Política de Cookies",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-w"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<p>En esta web recopilo y utilizo la información según indico en mi <a href=\"politica-privacidad.html#ext_menu-o\" class=\"text-success\">Política de Privacidad y Condiciones Generales</a>.\n</p><p><br></p><p>Una de las formas en las que recopiló información es a través del uso de la tecnología llamada “cookies”. En vitalsenior.es, se utilizan cookies para varias cosas.\n</p><p>\n</p><p><br></p><p><b>¿Qué es una cookie?\n</b></p><p><br></p><p>Una “cookie” es una pequeña cantidad de texto que se almacena en tu navegador (como Chrome de Google o Safari de Apple) cuando navegas por la mayoría de los sitios web.\n</p><p>\n</p><p><br></p><p><b>¿Qué NO es una cookie?\n</b></p><p><br></p><p>No es un virus, ni un troyano, ni un gusano, ni spam, ni spyware, ni abre ventanas pop-up.\n</p><p>\n</p><p><br></p><p><b>¿Qué información almacena una cookie?\n</b></p><p><br></p><p>Las cookies no suelen almacenar información sensible sobre usted, como tarjetas de crédito o datos bancarios, fotografías o información personal, etc. Los datos que guardan son de carácter técnico, estadísticos, preferencias personales, personalización de contenidos, etc. \n</p><p><br></p><p>El servidor web no le asocia a usted como persona sino a su navegador web. De hecho, si usted navega habitualmente con el navegador Chrome y prueba a navegar por la misma web con el navegador Firefox, verá que la web no se da cuenta que es usted la misma persona porque en realidad está asociando la información al navegador, no a la persona.\n</p><p>\n</p><p><br></p><p><b>¿Qué tipo de cookies existen?\n</b></p><p><br></p><p>Cookies técnicas: Son las más elementales y permiten, entre otras cosas, saber cuándo está navegando un humano o una aplicación automatizada, cuándo navega un usuario anónimo y uno registrado, tareas básicas para el funcionamiento de cualquier web dinámica.\n</p><p><br></p><p>Cookies de análisis: Recogen información sobre el tipo de navegación que está realizando, las secciones que más utiliza, productos consultados, franja horaria de uso, idioma, etc.\n</p><p><br></p><p>Cookies publicitarias: Muestran publicidad en función de su navegación, su país de procedencia, idioma, etc.\n</p><p>\n</p><p><br></p><p><b>¿Qué son las cookies propias y las de terceros?\n</b></p><p><br></p><p>Las cookies propias son las generadas por la página que está visitando y las de terceros son las generadas por servicios o proveedores externos como Youtube, Facebook, Twitter, Google Adsense, etc.\n</p><p>\n</p><p><br></p><p><b>¿Qué cookies utiliza esta web?\n</b></p><p><br></p><p>Esta web utiliza cookies propias y de terceros. En este sitio web se utilizan las siguientes cookies que se detallan a continuación:\n</p><p>\n</p><p><br></p><p><b>Cookies propias son las siguientes.\n</b></p><p><br></p><p><span style=\"font-size: 1.07rem;\">Preferencias: Las cookies me permiten recordar tus ajustes y preferencias.</span><br></p><p>Seguridad: Utilizo cookies para evitarte riesgos de seguridad.&nbsp;</p><p>\n</p><p><br></p><p><b>Cookies de terceros.\n</b></p><p><br></p><p>Esta web utiliza servicios de análisis, concretamente, Google Analytics para ayudar al website a analizar el uso que hacen los usuarios del sitio web y mejorar la usabilidad del mismo, pero en ningún caso se asocian a datos que pudieran llegar a identificar al usuario. Google Analytics, es un servicio analítico de web prestado por Google, Inc., El usuario puede consultar aquí el tipo de cookies utilizadas por Google.\n</p><p><br></p><p><span style=\"font-size: 1.07rem;\">A continuación tienes información sobre las cookies de las redes sociales que utiliza esta web en sus propias políticas de cookies:</span><br></p><p><br></p><p>Cookies de Facebook, ver más información en su política de cookies\n</p><p>Cookies de Twitter, ver más información en su política de cookies\n</p><p>Cookies de Google+, ver más información en su política de cookies\n</p><p>Cookies de Youtube, ver más información en su política de cookies\n</p><p>\n</p><p><br></p><p><b>¿Se pueden eliminar las cookies?\n</b></p><p><br></p><p>Sí, y no sólo eliminar, también bloquear, de forma general o particular para un dominio específico.  Para eliminar las cookies de un sitio web debe ir a la configuración de su navegador y allí podrá buscar las asociadas al dominio en cuestión y proceder a su eliminación. \n</p><p><br></p><p>Configuración de cookies para Google Chrome\n</p><p>Configuración de cookies para Apple Safari\n</p><p>Configuración de cookies para Internet Explorer\n</p><p>Configuración de cookies para Mozilla Firefox\n</p><p>\n</p><p><br></p><p><b>Más información sobre las cookies\n</b></p><p><br></p><p>Puedes consultar el reglamento sobre cookies publicado por la Agencia Española de Protección de Datos en su “Guía sobre el uso de las cookies” y obtener más información sobre las cookies en Internet, <a href=\"http://www.aboutcookies.org/\" target=\"_blank\" class=\"text-success\">http://www.aboutcookies.org/</a>\n</p><p><br></p><p>Si desea tener un mayor control sobre la instalación de cookies, puede instalar programas o complementos a su navegador, conocidos como herramientas de “Do Not Track”, que le permitirán escoger aquellas cookies que desea permitir.\n</p><p>\n</p><p><br></p><p>Esta política de cookies ha sido actualizada por última vez el 17-06-2019.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-x"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#553982",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-vertical-1-400-195x128.jpg",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "VitalSenior",
+              "title": "VitalSenior"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Contacto</strong><br>\n957 xxx xxx<br>\ninfo@vitalsenior.es",
+          "text2": "<strong>Menú</strong><br><a href=\"#top\">Inicio</a><br>Quienes Somos<br>\nServicios<br>Contacto<br>Leyes y Noticias",
+          "text3": "<b>Términos Legales</b><br><br><a href=\"politica-privacidad.html\">Política de Privacidad</a>\n<br><a href=\"aviso-legal.html\">Aviso Legal</a>\n<br><a href=\"politica-cookies.html\">Política de Cookies</a><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-size": "15px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "contacts1-j"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#412c63",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 - VitalSenior.es<br>&nbsp;<a href=\"https://www.pedroleon.info\" target=\"_blank\">Diseño Web: PedroLeon.info</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-k"
+        }
+      ]
+    }
+  }
+}
