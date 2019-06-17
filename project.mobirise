@@ -55,13 +55,13 @@
       "components": [
         {
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "fullScreen": true,
             "paddingTop": "2",
             "paddingBottom": 3,
             "showBullets": true,
             "bgColor": "#2969b0",
-            "timeout": 5,
+            "timeout": "9",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/adobestock-237199248.jpg",
