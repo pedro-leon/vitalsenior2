@@ -225,7 +225,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-vertical-2-400-267x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-vertical-2.jpg",
               "height": 128,
               "alt": "VitalSenior",
               "link": "https://www.vitalsenior.es",
@@ -707,7 +707,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-vertical-2-400-267x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-vertical-2.jpg",
               "height": 128,
               "alt": "VitalSenior",
               "link": "https://www.vitalsenior.es",
@@ -927,7 +927,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-vertical-2-400-267x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-vertical-2.jpg",
               "height": 128,
               "alt": "VitalSenior",
               "link": "https://www.vitalsenior.es",
@@ -1147,7 +1147,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-vertical-2-400-267x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-vertical-2.jpg",
               "height": 128,
               "alt": "VitalSenior",
               "link": "https://www.vitalsenior.es",
